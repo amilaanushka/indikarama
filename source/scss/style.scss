@@ -1,0 +1,13 @@
+//$fa-font-path: "../fonts/font-awesome" !default;
+
+@import "variables";
+@import "mixins"; 
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "sweetalert2"; 
+//@import "../../node_modules/font-awesome/scss/font-awesome";
+
+@import "common";
+@import "header"; 
+@import "main";
+@import "footer"; 

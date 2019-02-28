@@ -1,0 +1,23 @@
+{
+  "name": "Indika Rama",
+  "version": "1.0.0",
+  "description": "Indika Rama Website",
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "popper.js": "^1.12.5",
+    "jquery": "^3.2.1",
+    "bootstrap": "^4.0.0-beta"
+  }
+}
